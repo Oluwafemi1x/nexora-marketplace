@@ -7,7 +7,7 @@
   },
   "scripts": {
     "install:ci": "bash scripts/install-ci.sh",
-    "dev": "vite",
+    "dev": "vite --config vite.pages.config.ts",
     "build": "bash scripts/build-verified.sh",
     "build:pages": "vite build --config vite.pages.config.ts",
     "start": "vinext start",
