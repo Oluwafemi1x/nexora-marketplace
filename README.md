@@ -1,6 +1,8 @@
-# Nexora Marketplace
+# Zunavoa Marketplace
 
-Nexora is a modern multi-vendor ecommerce experience with an editorial storefront and a complete seller command centre.
+**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/nexora-marketplace/)
+
+Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefront and a complete seller command centre.
 
 ## Included
 
@@ -21,6 +23,7 @@ React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui, Lucide and Cloudflare W
 npm install
 npm run dev
 npm run build
+npm run build:pages
 ```
 
 ## Production payment note
