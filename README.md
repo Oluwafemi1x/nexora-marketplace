@@ -1,6 +1,6 @@
 # Zunavoa Marketplace
 
-**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/nexora-marketplace/)
+**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/zunavoa-marketplace/)
 
 Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefront and a complete seller command centre.
 
