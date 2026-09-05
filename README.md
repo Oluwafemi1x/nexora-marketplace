@@ -15,7 +15,7 @@ Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefro
 
 ## Stack
 
-React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui and Lucide. Deployment is automated with GitHub Pages.
+React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui and Lucide. The project is hosted independently through GitHub Pages.
 
 ## Run
 
