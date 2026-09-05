@@ -1,6 +1,6 @@
 # Zunavoa Marketplace
 
-**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/nexora-marketplace/)
+**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/zunavoa-marketplace/)
 
 Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefront and a complete seller command centre.
 
@@ -15,7 +15,16 @@ Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefro
 
 ## Stack
 
-React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui and Lucide. The project is hosted independently through GitHub Pages.
+React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui and Lucide. Deployment is automated with GitHub Pages.
+
+## iPhone preview inside VS Code
+
+1. Install the recommended **Microsoft Edge Tools for VS Code** extension when VS Code prompts you.
+2. Open **Terminal → Run Task → Zunavoa: Start local preview**.
+3. Open the Command Palette (`Ctrl+Shift+P`) and run **Microsoft Edge Tools: Open Edge DevTools**.
+4. Open `http://localhost:5173`, enable device emulation and choose an iPhone model.
+
+The development command uses the same client entry point as the GitHub Pages deployment, so the local interface matches the published marketplace.
 
 ## Run
 
