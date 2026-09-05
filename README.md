@@ -1,6 +1,6 @@
 # Zunavoa Marketplace
 
-**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/zunavoa-marketplace/)
+**Live site:** [Open Zunavoa Marketplace](https://oluwafemi1x.github.io/nexora-marketplace/)
 
 Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefront and a complete seller command centre.
 
@@ -15,7 +15,7 @@ Zunavoa is a modern multi-vendor ecommerce experience with an editorial storefro
 
 ## Stack
 
-React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui, Lucide and Cloudflare Workers-compatible Sites hosting.
+React 19, TypeScript, Vinext, Tailwind CSS 4, shadcn/ui and Lucide. Deployment is automated with GitHub Pages.
 
 ## Run
 
